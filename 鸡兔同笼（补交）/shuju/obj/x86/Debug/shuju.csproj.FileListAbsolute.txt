@@ -1,6 +1,0 @@
-/Users/huangkeping/Desktop/shuju/shuju/shuju/bin/Debug/shuju.exe
-/Users/huangkeping/Desktop/shuju/shuju/shuju/bin/Debug/shuju.pdb
-/Users/huangkeping/Desktop/shuju/shuju/shuju/obj/x86/Debug/shuju.csprojAssemblyReference.cache
-/Users/huangkeping/Desktop/shuju/shuju/shuju/obj/x86/Debug/shuju.csproj.CoreCompileInputs.cache
-/Users/huangkeping/Desktop/shuju/shuju/shuju/obj/x86/Debug/shuju.exe
-/Users/huangkeping/Desktop/shuju/shuju/shuju/obj/x86/Debug/shuju.pdb
