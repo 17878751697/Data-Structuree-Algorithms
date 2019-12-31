@@ -1,6 +1,0 @@
-/Users/huangkeping/Desktop/puke/puke/bin/Debug/puke.exe
-/Users/huangkeping/Desktop/puke/puke/bin/Debug/puke.pdb
-/Users/huangkeping/Desktop/puke/puke/obj/x86/Debug/puke.csprojAssemblyReference.cache
-/Users/huangkeping/Desktop/puke/puke/obj/x86/Debug/puke.csproj.CoreCompileInputs.cache
-/Users/huangkeping/Desktop/puke/puke/obj/x86/Debug/puke.exe
-/Users/huangkeping/Desktop/puke/puke/obj/x86/Debug/puke.pdb
