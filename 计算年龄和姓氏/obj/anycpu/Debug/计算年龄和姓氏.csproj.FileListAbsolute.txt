@@ -1,0 +1,6 @@
+E:\算法\欧\计算年龄和姓氏\bin\Debug\计算年龄和姓氏.exe.config
+E:\算法\欧\计算年龄和姓氏\bin\Debug\计算年龄和姓氏.exe
+E:\算法\欧\计算年龄和姓氏\bin\Debug\计算年龄和姓氏.pdb
+E:\算法\欧\计算年龄和姓氏\obj\anycpu\Debug\计算年龄和姓氏.csprojResolveAssemblyReference.cache
+E:\算法\欧\计算年龄和姓氏\obj\anycpu\Debug\计算年龄和姓氏.exe
+E:\算法\欧\计算年龄和姓氏\obj\anycpu\Debug\计算年龄和姓氏.pdb
